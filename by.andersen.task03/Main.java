@@ -23,7 +23,6 @@ public class Main {
                             "Попробуйте ввести число еще раз.");
                 }
 
-
                 number = scanner.nextInt();
 
                 if (number == 0) {
